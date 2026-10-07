@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey, I'm Anjo 👋
 
-<!--
-**Anjo-PS/Anjo-PS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE student at IIIT Kottayam  
+💻 Exploring programming, problem solving, and systems  
+🧠 Learning by building and experimenting
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C • Java • Python • JavaScript • HTML • CSS • React • Git • Linux • MySQL • MATLAB
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/anjo-p-s-186496325/)
